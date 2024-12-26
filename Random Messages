@@ -83,8 +83,8 @@
 </head>
 <body>
     <div class="container">
-        <h2>🎲 Randomized Leads Picker</h2>
-        <button class="btn" onclick="pickRandomItem()">Get 1 New Lead for StoryRadar Affiliate</button>
+        <h2>📮 Opening Messages & Moves</h2>
+        <button class="btn" onclick="pickRandomItem()">Get Opening Message</button>
         <ul id="itemList">
            <li>Hey, {{FIRSTNAME}}, u tryna grow this page's reach? 📈</li>
 <li>Yoo, {{FIRSTNAME}}, wanna boost your Instagram presence? 🚀</li>
@@ -94,6 +94,10 @@
 <li>u interested in boostin ur page's visibility?</li>
 <li>Quick q, {{FIRSTNAME}}, u tryna grow your page followers? 📊</li>
 <li>yo, saw ur page, wanna grow it and hit viral status? 🔥</li>
+<li>REACT TO STORY</li>
+<li>REACT TO STORY</li>
+<li>REACT TO STORY</li>
+<li>REACT TO STORY</li>
 <li>been meanin to ask, u wanna grow this page organically? 🌱</li>
 <li>ay, curious if u wanna scale this Instagram presence?</li>
 <li>Hey hey, {{FIRSTNAME}}, growth on ur mind for your profile? 🤔</li>
@@ -101,6 +105,8 @@
 <li>yoo, {{FIRSTNAME}}, saw ur page, wanna collab on growth goals? 🤝</li>
 <li>u thinkin bout boosting your Instagram visibility?</li>
 <li>Ayy, {{FIRSTNAME}}, how’s page growth sound to you? 🪴</li>
+<li>REACT TO STORY</li>
+<li>SEND VOICE MESSAGE</li>
 <li>Hey, {{FIRSTNAME}}, quick q... wanna grow your audience faster? ⏩</li>
 <li>yoo, growth plans for your profile this year? 📆</li>
 <li>Ay, {{FIRSTNAME}}, u wanna see this page blow up on Insta? 💥</li>
@@ -108,6 +114,7 @@
 <li>{{FIRSTNAME}}, u ever think bout growing your followers organically? 🌍</li>
 <li>Saw ur page, {{FIRSTNAME}}, got Instagram growth ideas for ya. 💡</li>
 <li>U down, {{FIRSTNAME}}, to chat growth strategies for Instagram?</li>
+<li>SEND VOICE MESSAGE</li>
 <li>Ay, {{FIRSTNAME}}, wanna expand ur Insta reach this month?</li>
 <li>saw you on explore again.... vibes</li>
 <li>your page keeps poppin up on my explore</li>
@@ -117,11 +124,19 @@
 <li>IG explore gotta love you fr </li>
 <li>every time i open explore there you are</li>
 <li>your posts stay showin up on my explore</li>
+<li>SEND VOICE MESSAGE</li>
 <li>how you always on my explore teach me the cheat code</li>
+<li>STORYSWIPE UP -> USING NEXT RANDOM MESSAGE</li>
+<li>STORYSWIPE UP -> USING NEXT RANDOM MESSAGE</li>
+<li>STORYSWIPE UP -> USING NEXT RANDOM MESSAGE</li>
+<li>STORYSWIPE UP -> USING NEXT RANDOM MESSAGE</li>
 <li>keep seein your posts on explore you everywhere</li>
 <li>can’t even scroll explore without your page showin up</li>
 <li>explore def thinks i’m your biggest fan lol</li>
 <li>you basically famous on my explore feed</li>
+<li>SEND VOICE MESSAGE</li>
+<li>SEND VOICE MESSAGE</li>
+<li>SEND VOICE MESSAGE</li>
 <li>every scroll on explore just takes me back to your profile</li>
 <li>why your page always on my explore like that</li>
 <li>yoo, tryna get this page bigger and more active? 💪</li>
@@ -138,6 +153,7 @@
 <li>Ay, {{FIRSTNAME}}, growth vibes for your Instagram page? 💬</li>
 <li>curious, {{FIRSTNAME}}, u down for some Instagram growth collab?</li>
 <li>yoo, {{FIRSTNAME}}, wanna boost this page's performance?</li>
+<li>SEND VOICE MESSAGE</li>
 <li>ever thought bout growing your audience organically?</li>
 <li>Hey, {{FIRSTNAME}}, tryna grow this year and hit new goals? 🏆</li>
 <li>Saw ur page, {{FIRSTNAME}}, let’s grow it together! ❤️</li>
@@ -147,6 +163,7 @@
 <li>ayy, {{FIRSTNAME}}, curious if u down for growth-focused collabs? 🤩</li>
 <li>Quick one, {{FIRSTNAME}}, growth strategy plans for IG</li>
 <li>saw u on explore, {{FIRSTNAME}}, let’s grow this page up!</li>
+<li>SEND VOICE MESSAGE</li>
 <li>Ay, {{FIRSTNAME}}, wanna grow ur following with better engagement? 💬</li>
 <li>yoo, growth collab maybe?</li>
 <li>Ay, {{FIRSTNAME}}, u got growth goals for IG?</li>
